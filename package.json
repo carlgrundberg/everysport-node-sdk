@@ -1,0 +1,26 @@
+{
+    "name": "everysport-node-sdk",
+    "version": "1.0.0",
+    "description": "Node client for the Everysport API",
+    "main": "everysport",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/carlgrundberg/everysport-node-sdk.git"
+    },
+    "keywords": [
+        "Everysport",
+        "Sportdata"
+    ],
+    "homepage": "https://github.com/menmo/everysport-api-documentation",
+    "author": {
+        "name": "Carl Grundberg",
+        "email": "carl.grundberg@menmo.se"
+    },
+    "readmeFilename": "README.md",
+    "bugs": {
+        "url": "https://github.com/carlgrundberg/everysport-node-sdk/issues"
+    },
+    "engines": {
+        "node": "*"
+    }
+}
